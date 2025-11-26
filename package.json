@@ -1,0 +1,22 @@
+{
+  "name": "tea-manager",
+  "version": "1.0.0",
+  "description": "tea manager ",
+  "keywords": [
+    "tea"
+  ],
+  "license": "ISC",
+  "author": "Muhammad Ahmad",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
